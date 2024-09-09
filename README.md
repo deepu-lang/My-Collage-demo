@@ -5,5 +5,4 @@ This is my first Git repository
 Author -Tajbeer Singh Negi
 <h1 We are creating a code for new window base application/>
 
-git clone https://github.com/your-deepu.lang/https://github.com/deepu-lang/My-Collage-demo.git
 
